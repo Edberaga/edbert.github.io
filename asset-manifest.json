@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.20ad02d0.css",
-    "main.js": "/portfolio/static/js/main.443d6e13.js",
+    "main.css": "/portfolio/static/css/main.1bd7a5bc.css",
+    "main.js": "/portfolio/static/js/main.79af749b.js",
+    "static/media/Poster.png": "/portfolio/static/media/Poster.c7b52e7a516df3d4b366.png",
+    "static/media/Nicholas Birthday Card.png": "/portfolio/static/media/Nicholas Birthday Card.71ae3dd37c6831670872.png",
+    "static/media/Admission - Project.jpg": "/portfolio/static/media/Admission - Project.fcd27d910194342bdb02.jpg",
     "static/media/resume-picture.jpg": "/portfolio/static/media/resume-picture.f451223c0680865afd7f.jpg",
+    "static/media/logo 4.jpg": "/portfolio/static/media/logo 4.6f3e681a5d01cd153d29.jpg",
     "index.html": "/portfolio/index.html",
-    "main.20ad02d0.css.map": "/portfolio/static/css/main.20ad02d0.css.map",
-    "main.443d6e13.js.map": "/portfolio/static/js/main.443d6e13.js.map"
+    "main.1bd7a5bc.css.map": "/portfolio/static/css/main.1bd7a5bc.css.map",
+    "main.79af749b.js.map": "/portfolio/static/js/main.79af749b.js.map"
   },
   "entrypoints": [
-    "static/css/main.20ad02d0.css",
-    "static/js/main.443d6e13.js"
+    "static/css/main.1bd7a5bc.css",
+    "static/js/main.79af749b.js"
   ]
 }
