@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1bd7a5bc.css",
-    "main.js": "/portfolio/static/js/main.79af749b.js",
+    "main.css": "/portfolio/static/css/main.bc073c9e.css",
+    "main.js": "/portfolio/static/js/main.3ddf72ae.js",
     "static/media/Poster.png": "/portfolio/static/media/Poster.c7b52e7a516df3d4b366.png",
+    "static/media/eu-website.png": "/portfolio/static/media/eu-website.97ff7654f2604c179830.png",
+    "static/media/kareducation.png": "/portfolio/static/media/kareducation.23b674102a93efeb995a.png",
+    "static/media/Portugal.png": "/portfolio/static/media/Portugal.f617a4a2cba5536be96f.png",
+    "static/media/NIU.png": "/portfolio/static/media/NIU.f63792a00e2185535d74.png",
+    "static/media/Latvia.png": "/portfolio/static/media/Latvia.813fcf6bf535ede07a68.png",
+    "static/media/sunway.png": "/portfolio/static/media/sunway.d471be1a911aca785ce1.png",
+    "static/media/NFT.png": "/portfolio/static/media/NFT.d2ae8d9607389fa53076.png",
     "static/media/Nicholas Birthday Card.png": "/portfolio/static/media/Nicholas Birthday Card.71ae3dd37c6831670872.png",
     "static/media/Admission - Project.jpg": "/portfolio/static/media/Admission - Project.fcd27d910194342bdb02.jpg",
     "static/media/resume-picture.jpg": "/portfolio/static/media/resume-picture.f451223c0680865afd7f.jpg",
     "static/media/logo 4.jpg": "/portfolio/static/media/logo 4.6f3e681a5d01cd153d29.jpg",
     "index.html": "/portfolio/index.html",
-    "main.1bd7a5bc.css.map": "/portfolio/static/css/main.1bd7a5bc.css.map",
-    "main.79af749b.js.map": "/portfolio/static/js/main.79af749b.js.map"
+    "main.bc073c9e.css.map": "/portfolio/static/css/main.bc073c9e.css.map",
+    "main.3ddf72ae.js.map": "/portfolio/static/js/main.3ddf72ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bd7a5bc.css",
-    "static/js/main.79af749b.js"
+    "static/css/main.bc073c9e.css",
+    "static/js/main.3ddf72ae.js"
   ]
 }
