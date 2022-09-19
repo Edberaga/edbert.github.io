@@ -1,0 +1,33 @@
+.a {
+    margin-top: 10vh;
+}
+
+.a-header{
+    text-align: center;
+}
+
+.a-img-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5vh 5vw;
+}
+
+.project{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    height: 45vh;
+    width: 25vw;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-img {
+    height: 200px;
+    margin: 10px 0px;
+}

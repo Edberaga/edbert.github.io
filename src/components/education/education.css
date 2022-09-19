@@ -1,0 +1,28 @@
+.e{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.e-left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e-right {
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e-card {
+    width: 70%;
+}
+
+.e-img {
+    width: 100%;
+    border-radius: 15px;
+}
