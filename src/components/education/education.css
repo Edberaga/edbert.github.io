@@ -26,3 +26,16 @@
     width: 100%;
     border-radius: 15px;
 }
+
+@media screen and (max-width: 480px) {
+    .e {
+        flex-direction: column-reverse;
+        text-align: center;
+        height: auto;
+        margin: 5em 0;
+    }
+    .a-title {
+        font-size: 150%;
+        padding: 10px;
+    }
+} 
