@@ -1,4 +1,43 @@
 * {
   margin: 0;
   font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body{
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+@media screen and (max-width: 1080px) {
+  p {
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 500px){
+  h1 {
+    font-size: 32px;
+  }
+
+  p {
+    font-size: 17px;
+  }
 }
