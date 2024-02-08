@@ -17,7 +17,6 @@
 
 .i-left-wrapper {
     padding: 50px;
-    height: 50%;
 }
 
 .i-intro{
@@ -31,13 +30,11 @@
 
 .i-title{
     height: 50px;
-    overflow:hidden;
+    overflow: hidden;
     margin: 15px 0px;
 }
 
 .i-title-wrapper{
-    
-    height: 100%;
     animation: move 5s ease-in-out infinite alternate;
 }
 
@@ -80,28 +77,45 @@
     right: 0;
 }
 
+/*Notebook size*/
 @media screen and (max-width: 1080px) {
-    .i-img {
-        width: 40%;
-        height: 35%;
-        top: 35%;
-        left: 25%;
-    }
-}
-/*Mobile device*/
-@media screen and (max-width: 480px) {
     .i {
         flex-direction: column;
     }
+    
+    .i-img {
+        position: absolute;
+        box-sizing: border-box;
+        height: 100%;
+        width: fit-content;
+        padding: 25px 15px;
+        top: 0%;
+    }
+
+    .i-left, .i-right {
+        height: 100vh;
+    }
+    
     .i-left-wrapper {
-        padding: 50px 10px;
+        padding: 50px 25px;
         height: 80%;
     }
+}
+
+/*Tablet Device*/
+
+/*Mobile device*/
+@media screen and (max-width: 480px) {
+    .i-name {
+        font-size: 32px;
+    }
+    .i-title-item {
+        font-size: 24px;
+    }
+
     .i-img {
-        width: 45%;
-        height: 70%;
-        position: absolute;
-        top: 16%;
+        width: 65vw;
         left: 32%;
+        padding: 15% 5%;
     }
 }
