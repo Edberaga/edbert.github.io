@@ -7,10 +7,11 @@ export const List = () => {
         <div className="l">
             <div className="l-texts">
                 <h1 className="l-title">
-                    My Experience
+                    My Work Projects
                 </h1>
                 <p className="l-desc">
-                    I have work as a freelancer to develop or design website interface and layouts. All of the works were used by Adobe Photoshop and Wordpress with Elementor Plugins.
+                    I have develop few Web Application and Website through my Experiences.<br/>
+                    (Note: Click the image to scrolls.)
                 </p>
                 <div className="l-list">
                     <Product />
