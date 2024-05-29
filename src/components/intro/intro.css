@@ -97,6 +97,7 @@
     }
     
     .i-left-wrapper {
+        box-sizing: border-box;
         padding: 50px 25px;
         height: 80%;
     }
@@ -114,7 +115,7 @@
     }
 
     .i-img {
-        width: 65vw;
+        max-width: 65vw;
         left: 32%;
         padding: 15% 5%;
     }
