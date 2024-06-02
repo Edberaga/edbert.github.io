@@ -50,6 +50,11 @@
     z-index: 2;
 }
 
+.p-title {
+    position: relative;
+    z-index: 2;
+}
+
 .p-circle {
     width: 6px;
     height: 6px;
