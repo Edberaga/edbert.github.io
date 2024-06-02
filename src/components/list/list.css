@@ -87,9 +87,3 @@
     justify-content: center;
     gap: 10px;
 }
-
-@media screen and (max-width: 500px) {
-    .p-button {
-        width: 80%;
-    }
-}

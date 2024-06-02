@@ -23,11 +23,11 @@ export const Product = ({img, link}) => {
                     </p>
                     <div className="p-buttons">
                         <button className='p-button'>
-                            <a href={par.link} target="_blank" rel="noreferrer">Visit Site</a>
+                            <a href={par.link} target="_blank" rel="noreferrer">Visit</a>
                         </button>
                         {(par.type === "web_app") && 
                         <button className='p-button'>
-                            <a href={par.github} target="_blank" rel="noreferrer">View Code</a>
+                            <a href={par.github} target="_blank" rel="noreferrer">Code</a>
                         </button>
                         }
                     </div>
