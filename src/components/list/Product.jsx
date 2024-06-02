@@ -13,7 +13,7 @@ export const Product = ({img, link}) => {
                         <div className="p-circle"></div>
                         <div className="p-circle"></div>
                     </div>
-                    <h2>{par.name}</h2>
+                    <h2 className="p-title">{par.name}</h2>
                     <img src={par.img} alt={par.name} className='p-image'/>
                 </div>
 
