@@ -21,7 +21,7 @@ export const WorkProject = [
         "type": "website"
     },
     {
-        "name": "Chiang Mai Property Invest",
+        "name": "Chiang Mai Property",
         "link": "https://chiangmaipropertyinvest.com/",
         "img": chiangMai,
         "desc": "Website for Searching or Booking property places in Chiang Mai",
@@ -49,4 +49,8 @@ export const WorkProject = [
         "desc": "A Malaysia organization to assist F&B or Tourism Business to expand their reach",
         "type": "website"
     },
+]
+
+export const PersonalProject = [
+    {}
 ]
